@@ -7,6 +7,7 @@ public class GridSpace : MonoBehaviour
 {
     public Button button;
     public Text buttonText;
+    //ändring för att testa GitHub.
  
 
     private GameController gameController;
